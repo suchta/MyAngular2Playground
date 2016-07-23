@@ -1,0 +1,28 @@
+<div class="header-container">
+    <header>
+        <h1 class="title">My Angular2 + TypeScript App</h1>
+    </header>
+</div>
+
+<div class="main-container">
+    <router-outlet></router-outlet>
+</div>
+<div class="container">
+  <ul class="list-group">
+    <li
+      *ngFor="let item of items, let i = index"
+      class="list-group-item"
+       [class.active]="item.active"
+      (click)="listItemClick(i)"
+      >
+      {{item.name}}
+      <span class="badge">{{i + 1}}</span>
+    </li>
+  </ul>
+</div>
+<div class="footer-container">
+    <footer>
+        <a [routerLink]="['']">Home</a> | <a [routerLink]="['/about']">About</a>
+        <span>&copy; 2015</span>
+    </footer>
+</div>
