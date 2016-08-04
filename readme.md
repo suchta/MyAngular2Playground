@@ -1,4 +1,4 @@
-# My Angular2 Playground
+# :smile: My Angular2 Playground
 > This project is generated with [yo angular2-typescript generator](https://github.com/shibbir/generator-angular2-typescript) version 0.1.1.
 
 ## Installation
