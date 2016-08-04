@@ -34,7 +34,7 @@ $ npm test
     - [ ] Common API (like *ngIf, *ngFor, *ngSwitch, etc.)
         - [x] *ngFor
     - [ ] Passing Data around
-        - [ ] To child components
+        - [x] To child components
         - [ ] Using the @Import decorator
     - [ ] Event handling (EventEmitters)
     - [ ] Building services (singletons)
