@@ -1,5 +1,5 @@
 # :smile: My Angular2 Playground
-> This project is generated with [yo angular2-typescript generator](https://github.com/shibbir/generator-angular2-typescript) version 0.1.1.
+> This project is generated with [yo angular2-typescript generator](https://github.com/shibbir/generator-angular2-typescript) version 0.1.1. This is my favorite generator, and helps you get started very quickly with Angular 2 and Typescript. 
 
 ## Installation
 
