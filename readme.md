@@ -21,7 +21,8 @@ $ npm test
 ###I'll be using this repo to demonstrate the following techniques in Angular2 and CSS3:
 
 *   CSS3:
-    - [x] Bootstrap Layout and Styling
+    - [ ] Bootstrap Layout and Styling
+        - [x] Bootstrap Grid System for responsive layout
     - [ ] Angular Material Layout and Styling
     - [ ] SaSS and SaSS Mixins
 *   Angular2:
